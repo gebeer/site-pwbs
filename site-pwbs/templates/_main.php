@@ -77,6 +77,7 @@ if ($side != '') {
 		<p class="col-sm-12">&copy; <?php echo date('Y'); ?> pwbs</p>
 	</footer>
 	<script src="<?php echo $config->urls->templates; ?>bower_components/jquery/dist/jquery.min.js"></script>
+	<?php foreach($config->scripts as $url) echo "<script src='$url'></script>"; ?>
 	<script src="<?php echo $config->urls->templates; ?>js/plugins.js"></script>
 	<script src="<?php echo $config->urls->templates; ?>js/scripts.js"></script>
 </body>
