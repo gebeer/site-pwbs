@@ -19,9 +19,6 @@
 // an example of when you'd want to do this would be XML sitemap or AJAX page.
 if(!$useMain) return;
 /**********************************************************************************************/
-if ($side != '') {
-	$mainwidth = 9;
-}
 ?><!DOCTYPE html>
 <!--[if IE 8]> <html class="no-js lt-ie9" lang="en" > <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
@@ -56,16 +53,11 @@ if ($side != '') {
 	<main class="main content container">
 		<div class="row">
 
-			<section class="section col-sm-<?php echo $mainwidth; ?>">
+			<section class="col-sm-12">
 
 				<?php echo $content; ?>
 
 			</section>
-			<?php if ($side != '') : ?>
-			<aside class="aside col-sm-<?php echo 12 - $mainwidth; ?>">
-				<?php echo $side; ?>
-			</aside>
-			<?php endif; ?>
 		</div>
 
 

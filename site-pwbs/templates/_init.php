@@ -16,8 +16,6 @@
 $browserTitle = $page->get('browser_title|title');
 $headline = $page->get('headline|title');
 $content = ''; 
-$mainwidth = 12;
-$side = '';
 $tmplPath = $config->urls->templates;
 
 /**
