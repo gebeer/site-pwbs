@@ -1,4 +1,9 @@
-// breakpoint mixin taken from https://medium.com/developing-with-sass/refactoring-my-simple-sass-breakpoint-mixin-71205dd6badd
+/* breakpoint mixin taken from https://medium.com/developing-with-sass/refactoring-my-simple-sass-breakpoint-mixin-71205dd6badd
+usage:
+@include breakpoint($md) {
+	your rules
+}
+ */
 $xs: ( max:  767px );
 $sm: ( min:  768px );
 $md: ( min:  992px );
