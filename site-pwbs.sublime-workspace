@@ -1,0 +1,917 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"search",
+				"searchCountries"
+			],
+			[
+				"cou",
+				"countriesjson"
+			],
+			[
+				"out",
+				"outerclass"
+			],
+			[
+				"togg",
+				"toggleClass"
+			],
+			[
+				"toot",
+				"tooltip"
+			],
+			[
+				"sc",
+				"script"
+			],
+			[
+				"mw",
+				"max-width"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"ta",
+				"text-align"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"cont",
+				"continental-coordinator"
+			],
+			[
+				"contine",
+				"continental-coordinator"
+			],
+			[
+				"people",
+				"peoplelist"
+			],
+			[
+				"page",
+				"pageArrayToString"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fs",
+				"font-size"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"fon",
+				"font-variant"
+			],
+			[
+				"iterator",
+				"iterator_count"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"n",
+				"now"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bra",
+				"brand-primary"
+			],
+			[
+				"gra",
+				"gray-lighter"
+			],
+			[
+				"gray",
+				"gray-dark"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"login",
+				"login_persist"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"user",
+				"userServers"
+			],
+			[
+				"publ",
+				"publishDown"
+			],
+			[
+				"cre",
+				"created_users_id"
+			],
+			[
+				"medi",
+				"mediapage"
+			],
+			[
+				"sta",
+				"startTime"
+			],
+			[
+				"ad_publish",
+				"ad_publish_up"
+			],
+			[
+				"setti",
+				"settime"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"st",
+				"starttime"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"weekd",
+				"weekday"
+			],
+			[
+				"tiems",
+				"timestamps"
+			],
+			[
+				"pubDa",
+				"pubDates"
+			],
+			[
+				"vra",
+				"var_dump"
+			],
+			[
+				"pub",
+				"publishDate"
+			],
+			[
+				"edit",
+				"editpage"
+			],
+			[
+				"iterat",
+				"iterator_count"
+			],
+			[
+				"start",
+				"startDate"
+			],
+			[
+				"server",
+				"serverField"
+			],
+			[
+				"serverad",
+				"serverad"
+			],
+			[
+				"th",
+				"thead	Tag"
+			],
+			[
+				"prof",
+				"profileForm"
+			],
+			[
+				"profi",
+				"profileField"
+			],
+			[
+				"proc",
+				"processInput"
+			],
+			[
+				"userpa",
+				"userpage"
+			],
+			[
+				"userp",
+				"userpage"
+			],
+			[
+				"editdelete",
+				"editdelete"
+			],
+			[
+				"ed",
+				"editDelete"
+			],
+			[
+				"editdele",
+				"editdelete"
+			],
+			[
+				"sani",
+				"sanitizer"
+			],
+			[
+				"editd",
+				"editdelete"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"but",
+				"buttonText"
+			],
+			[
+				"tim",
+				"timezone"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"rea",
+				"ready	$(document).ready"
+			],
+			[
+				"re",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"logge",
+				"loggedIn"
+			],
+			[
+				"lo",
+				"loginText"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"body",
+				"body-bg-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"bod",
+				"bodySize"
+			],
+			[
+				"scale",
+				"scale"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"head",
+				"headings-color"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"marig",
+				"margin-right"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"figs",
+				"figSize"
+			],
+			[
+				"figsi",
+				"figSizeS"
+			],
+			[
+				"td",
+				"td	Tag"
+			],
+			[
+				"ma",
+				"margin-left"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 369.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ine",
+				"Snippet: bs3-input-email"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"min",
+				"Minify::Minify File"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 153.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/gbr/work/processwire/templates/site-pwbs/site-pwbs/templates/inc/functions.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/bower_components/bootstrap-sass-official/assets/stylesheets/bootstrap/_dropdowns.scss",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/sass/components/_nav.scss",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/sass/components/_type.scss",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/sass/components/_header.scss",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/sass/components/_content.scss",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/sass/components/_maps.scss",
+		"/home/gbr/work/tao-berlin/universalhealingtaofoundation/design/Continents.svg",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/img/Continents.svg",
+		"/home/gbr/work/01a-joomla-vagrant/www/html5-boilerplate/src/index.html",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/bower.json",
+		"/home/gbr/work/01a-joomla-vagrant/www/wunschiknews/wunschiknews.sublime-project",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/sftp-config.json",
+		"/tmp/sublime-sftp-browse-1426490182/mapped/var/www/virtual/gbr/uhtf/.htaccess",
+		"/tmp/sublime-sftp-browse-1426489690/mapped/var/www/virtual/gbr/uhtf/site/config.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/sass/components/_panels.scss",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/redirect.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/inc/facultyform.inc",
+		"/home/gbr/work/01a-joomla-vagrant/www/wadconsole/site/templates/home.php",
+		"/home/gbr/work/01-design/dummy-avatar.svg",
+		"/home/gbr/Downloads/fc40b37d47d510154e1ce58bfaabe6b927333cde.diff",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/export.php",
+		"/home/gbr/Downloads/Bbe_VCDr.bin",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/bower_components/sass-css3-mixins/css3-mixins.scss",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/sass/styles.scss",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/sass/components/_helpers.scss",
+		"/home/gbr/work/01a-joomla-vagrant/www/uts/templates/utgbs3/sass/styles.scss",
+		"/home/gbr/work/01a-joomla-vagrant/www/wadconsole/site/templates/basic-page.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/_init.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/sass/generic/_mixins.scss",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/config.rb",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap/collapse.js",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/js/plugins.js",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/bower_components/bootstrap-sass-official/assets/javascripts/bootstrap.min.js",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/people.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/people.csv",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/config.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/file.csv",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/bower_components/modernizr/feature-detects/forms-inputnumber-l10n.js",
+		"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/bower_components/flag-icon/flag-icon.html",
+		"/home/gbr/work/tao-berlin/universalhealingtaofoundation/data/ccasia.csv",
+		"/home/gbr/work/tao-berlin/universalhealingtaofoundation/data/people.csv",
+		"/home/gbr/work/tao-berlin/universalhealingtaofoundation/data/council9.csv",
+		"/home/gbr/work/tao-berlin/universalhealingtaofoundation/data/ausstates.csv",
+		"/home/gbr/work/tao-berlin/universalhealingtaofoundation/data/usstates.csv",
+		"/home/gbr/work/tao-berlin/universalhealingtaofoundation/data/country.csv",
+		"/home/gbr/work/processwire/templates/site-pwbs/install/info.php",
+		"/home/gbr/work/processwire/templates/site-pwbs/config.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/pwbs/site/templates/js/plugins.js",
+		"/home/gbr/work/01a-joomla-vagrant/www/pwbs/site/templates/inc/functions.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/pwbs/site/templates/basic-page.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/pwbootstrap3/site/templates/home.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/pwbs/site/templates/js/scripts.js",
+		"/home/gbr/work/01a-joomla-vagrant/www/pwbs/site/templates/_init.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/pwbootstrap3/site/config.php",
+		"/tmp/sublime-sftp-browse-1425020350/mapped/var/www/virtual/gbr/gocinet.gbr.sculptor.uberspace.de/site/config.php",
+		"/home/gbr/work/00-joomla-vagrant-latest/www/gocinetlive/sftp-config.json",
+		"/tmp/sublime-sftp-browse-1425020138/mapped/var/www/virtual/gbr/gocinet.gbr.sculptor.uberspace.de/.htaccess",
+		"/tmp/sublime-sftp-browse-1425019930/mapped/var/www/virtual/gbr/gocinet/site/config.php",
+		"/home/gbr/work/00-joomla-vagrant-latest/www/gocinetlive/site/config.php",
+		"/home/gbr/work/00-joomla-vagrant-latest/www/gocinetlive/sftp-config-alt.json",
+		"/home/gbr/work/00-joomla-vagrant-latest/www/gocinetlive/site/assets/logs/errors.txt",
+		"/home/gbr/work/cavsusa/gocinet/backup/processwiredb.sql",
+		"/home/gbr/work/01a-joomla-vagrant/www/taoenergy/sftp-config.json_",
+		"/tmp/sublime-sftp-browse-1423370146/mapped/httpdocs/wad/ProcessWire-master/site/config.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/ProcessWire-master/site/config.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/gocinet.html",
+		"/tmp/sublime-sftp-browse-1423367741/mapped/httpdocs/wad/ProcessWire-master/site/config.php",
+		"/tmp/fz3temp-1/viren_log_2014_12_18.html",
+		"/tmp/fz3temp-1/installer.xml",
+		"/tmp/fz3temp-1/sfx.php",
+		"/tmp/fz3temp-1/VIRUS_PHP.Shell-38_5f1m4v.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/css/styles.css",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/scss/_mixins.scss",
+		"/home/gbr/Desktop/fontawesome.json",
+		"/home/gbr/work/01a-joomla-vagrant/www/wunschiknews/site/templates/inc/flags.inc",
+		"/home/gbr/work/01a-joomla-vagrant/www/wunschiknews/site/templates/inc/functions.inc",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/assets/bootstrap-3-timepicker/demo/index.html",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/.bowerrc",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/sftp-config-alt.json",
+		"/home/gbr/work/gocinet/zugangsdaten.txt",
+		"/home/gbr/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/gbr/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/gbr/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
+		"/home/gbr/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/bower.json",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/modules/FieldTypeTimestamps/FieldtypeTimestamps.module",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/modules/CalculateRecurrentEvents/CalculateRecurrentEvents.module",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/modules/ChangeImageSelectParent.module",
+		"/home/gbr/Desktop/index.php",
+		"/tmp/fz3temp-1/.htaccess",
+		"/tmp/fz3temp-1/config.php",
+		"/tmp/fz3temp-1/errors.txt",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/assets/logs/errors.txt",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/modules/CleanupUserPages.module",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/modules/CalculateRecurrentEvents/src/Valid.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/modules/CalculateRecurrentEvents/src/When.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/sftp-config.json",
+		"/tmp/fz3temp-1/_main.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/inc/loginform.inc",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/server.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/login.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/basic-page.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/home.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/advertisement.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/_init.php",
+		"/tmp/fz3temp-1/.htaccess.before-FollowSymLinks-change",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/inc/changepwform.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/inc/registrationform.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/inc/login.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/inc/functions.inc",
+		"/tmp/fz3temp-1/index.htm",
+		"/home/gbr/work/gocinet/gocinet.com",
+		"/tmp/fz3temp-1/robots.txt",
+		"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow3dbs3/css/jQuery(document).ready(function() {",
+		"/tmp/fz3temp-1/.htaccess 2",
+		"/media/gbr/GARMIN/Garmin/Activities/2014-09-23-17-09-57.fit",
+		"/media/gbr/GARMIN/Upload to Garmin Connect.url",
+		"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow3dbs3/js/pricecalc.min.js",
+		"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow3dbs3/js/pricecalc.js",
+		"/home/gbr/work/glasow/glasow-3d/design neu/preiskalk.htm",
+		"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow/js/app.min.js",
+		"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow/js/bootstrap.min.js",
+		"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/modules/mod_gbr_slick/mod_gbr_slick.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/modules/mod_gbr_caroufredsel/tmpl/default.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow3dbs3/html/com_contact/contact/default_form.php",
+		"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow3dbs3/config.rb",
+		"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow3dbs3/html/com_content/category/default_articles.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/sass/components",
+			"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/bower_components",
+			"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/sass",
+			"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates",
+			"/home/gbr/work/01a-joomla-vagrant/www/uhtf/site/templates/bower_components",
+			"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/inc",
+			"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates/assets/bootstrap-sass-official",
+			"/home/gbr/work/01a-joomla-vagrant/www/gocinet/wire",
+			"/home/gbr/work/01a-joomla-vagrant/www/gocinet/site/templates",
+			"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow3dbs3",
+			"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/modules/mod_qlform/tmpl",
+			"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/system",
+			"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow3dbs3",
+			"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow3dbs3/html/com_content",
+			"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow3dbs3/html/com_contact",
+			"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow3dbs3",
+			"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/templates/glasow",
+			"/home/gbr/work/01a-joomla-vagrant/www/glasow3d/modules/mod_gbr_slick",
+			"/home/gbr/work/01a-joomla-vagrant/www/utg/media/cck/css",
+			"/home/gbr/work/01a-joomla-vagrant/www/utg"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"pageArrayToString",
+			"(lg)",
+			"(md)",
+			"breakpoint",
+			"isocode",
+			"g id=\"",
+			"max-height",
+			"clearMenus",
+			"dropdown",
+			"text-shadow",
+			"nowr",
+			"transition",
+			"dropdown",
+			"border-radius",
+			"dropdow",
+			"\"",
+			"<td>",
+			"</td>",
+			" size=\"16\"",
+			" style=\"font-size:9pt;\"",
+			"- ",
+			" align=\"justify\"",
+			"<br />",
+			"<strong>",
+			"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ",
+			"         ",
+			"-xs",
+			"\"",
+			"border-radius",
+			"navbar",
+			"'",
+			"dropdown",
+			"navbar-header",
+			"@mixin te",
+			"@te",
+			"navbar",
+			"dropdown",
+			"navbar",
+			"font-si",
+			"navbar",
+			"brand",
+			"navbar",
+			"all",
+			"httphost",
+			"hostname",
+			"\"",
+			"@transition",
+			"@ transition",
+			"transition",
+			".carousel",
+			"\"",
+			"validateFilename",
+			"wireUpload",
+			"validateFilename",
+			"$name",
+			"InputPageName",
+			"$pagefile->basename",
+			"name",
+			"InputPageName",
+			"$uID",
+			"$page",
+			"$editpage",
+			"$form",
+			"editpage",
+			"$config",
+			"config",
+			"date_default_timezone_get",
+			"$serverForm",
+			"serverField",
+			"serverForm",
+			"var_dump",
+			"DatePeriod",
+			"$useMain",
+			"serverpage",
+			"p",
+			"ages",
+			"p",
+			"pages",
+			"p",
+			"$server",
+			"loginform.inc",
+			"$out",
+			"out",
+			"$form",
+			"$field",
+			"$form",
+			"display: block",
+			"display: none",
+			"opacity: 1",
+			"opacity: 0",
+			"opacity",
+			"2",
+			"confirmed",
+			"serverId",
+			"loginform.php",
+			"SymLinks",
+			"\"",
+			"var_dump",
+			"\"",
+			"outMain",
+			"h3",
+			"bootstrap",
+			"\"",
+			"bootstrap",
+			"og:title",
+			"teaser",
+			"navbar",
+			"script",
+			"table",
+			"sizePriceXXL",
+			"sizePriceXL",
+			"sizePriceL",
+			"sizePriceM",
+			"sizePriceS",
+			"figGrXXL",
+			"figGrXL",
+			"figGrL",
+			"figGrM",
+			"figGrS",
+			"setHeight",
+			"col-md",
+			"$border-radius-base",
+			"button",
+			"JHtml::_('behavior.tooltip')",
+			"#887251",
+			"887251",
+			"Text",
+			"JHtml::_('behavior.framework')"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'",
+			"",
+			"\\n<p>",
+			"",
+			"'",
+			"",
+			"'",
+			"$mediapage",
+			"$mediaform",
+			"mediapage",
+			"field",
+			"form",
+			"serverPage",
+			"$serverout",
+			"$adout",
+			"$profileout",
+			"$adform",
+			"$profileField",
+			"$registrationField",
+			"$serverField",
+			"$registrationForm",
+			"$profileForm",
+			"$serverForm",
+			"'",
+			"priceScale5",
+			"priceScale6",
+			"priceScale7",
+			"priceScale8",
+			"priceScale9",
+			"scale5",
+			"scale6",
+			"scale7",
+			"scale8",
+			"scale9",
+			"equalHeight",
+			"col-sm",
+			"$slider-bg-color",
+			"Absatz",
+			"slick",
+			"../fonts/",
+			"../fonts",
+			"line-height: 1.313em",
+			"line-height: 1.1.313em",
+			"1.563em",
+			"€",
+			"class=",
+			"",
+			"[output]",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								60,
+								60
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"project": "site-pwbs.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"file",
+				"site/templates/file.csv"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 365.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
