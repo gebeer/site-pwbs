@@ -138,10 +138,10 @@ function bsCarouselMarkup($images) {
     $carouselMarkup .= "</div>";
 
     $carouselMarkup .= "<a class='left carousel-control' href='#carousel-$carouselId' data-slide='prev'>
-    <span class='glyphicon glyphicon-chevron-left'></span>
+    <span class='fa fa-chevron-left'></span>
     </a>
     <a class='right carousel-control' href='#carousel-$carouselId' data-slide='next'>
-    <span class='glyphicon glyphicon-chevron-right'></span>
+    <span class='fa fa-chevron-right'></span>
     </a>
     </div>";
     return $carouselMarkup;
