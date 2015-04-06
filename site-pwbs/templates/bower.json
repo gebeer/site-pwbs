@@ -1,8 +1,8 @@
 {
   "name": "pwbs",
   "version": "1.0.0",
-  "homepage": "https://github.com/ryancramerdesign/ProcessWire",
-  "description": "blank bootstrap sass profile for processwire",
+  "homepage": "https://github.com/gebeer/pwbs",
+  "description": "blank bootstrap sass / fontawesome profile for processwire",
   "authors": [
     "gebeer"
   ],
