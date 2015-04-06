@@ -84,6 +84,8 @@ $accordion = "<div class='panel-group' id='accordion' role='tablist' aria-multis
 */
 function bs3AccordionMarkup($pages, $titlefield, $contentfield) {
 
+    $accordion = "<div class='panel-group' id='accordion' role='tablist' aria-multiselectable='true'>";
+
     $i = 1;
     foreach ($pages as $child) {
         $in = ($i == 1) ? " in" : "";
