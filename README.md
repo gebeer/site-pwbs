@@ -17,12 +17,12 @@ This blank site profile for ProcessWire CMS/CMF features:
 - all assets need to be installed with bower first. Open a terminal in site-pwbs/templates and execute `bower install`
 
 ##How to install
-**from zip:***
+**from zip:**
 1. download the [zip](https://github.com/gebeer/pwbs/archive/master.zip)
 2. extract the folder "site-pwbs" into a clean [ProcessWire](https://github.com/ryancramerdesign/ProcessWire) install's root folder
 3. during install of ProcessWire choose the profile "bootstrap-sass-official fontawesome blank profile" 
 
-**git clone**
+**git clone:**
 1. copy [ProcessWire](https://github.com/ryancramerdesign/ProcessWire) to your projects root folder
 2. open a terminal in that root folder and execute `git clone https://github.com/gebeer/site-pwbs.git`
 3. during install of ProcessWire choose the profile "bootstrap-sass-official fontawesome blank profile" 
