@@ -363,7 +363,7 @@
 			"file": ".gitignore",
 			"settings":
 			{
-				"buffer_size": 61,
+				"buffer_size": 63,
 				"line_ending": "Unix"
 			}
 		}
@@ -426,6 +426,10 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/home/gbr/work/processwire/templates/site-pwbs"
+	],
 	"file_history":
 	[
 		"/home/gbr/work/processwire/templates/site-pwbs/site-pwbs/templates/inc/functions.php",
@@ -796,15 +800,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 61,
+						"buffer_size": 63,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								60,
-								60
+								61,
+								61
 							]
 						],
 						"settings":
