@@ -13,10 +13,11 @@
  * The individual template files may choose to overwrite any of these. 
  *
  */
+$tmplPath = $config->urls->templates;
+$useMain = true; // if you don't want to render a specific template through _main.php include $useMain = false in that template
 $browserTitle = $page->get('browser_title|title');
 $headline = $page->get('headline|title');
 $content = ''; 
-$tmplPath = $config->urls->templates;
 
 /**
  * Add custom classes to some elements inserted from the rich text editor
