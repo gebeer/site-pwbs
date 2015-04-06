@@ -75,9 +75,14 @@ function renderChildrenOf($pa, $root = null, $output = '', $level = 0) {
 // Set the ball rolling...
 //echo renderChildrenOf($pa); 
 
-function bs3Accordion($pages, $titlefield, $contentfield) {
-
-    $accordion = "<div class='panel-group' id='accordion' role='tablist' aria-multiselectable='true'>";
+/*render a Bootstrap 3 accordion from a PW PageArray
+variables passed to this function
+$pages: PageArray the children of which will be rendered into an accordion
+$title: string, name of the field to be used as panel title, eg "title"
+$content: string, name of the field to be used as panel content, eg "bodycopy"
+$accordion = "<div class='panel-group' id='accordion' role='tablist' aria-multiselectable='true'>";
+*/
+function bs3AccordionMarkup($pages, $titlefield, $contentfield) {
 
     $i = 1;
     foreach ($pages as $child) {
