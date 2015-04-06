@@ -1,6 +1,6 @@
 <?php if(!defined("PROCESSWIRE_INSTALL")) die();
 $info = array(
-	'title' => "bootstrap-sass-official fontawesome blank template", 
+	'title' => "bootstrap-sass-official fontawesome blank profile", 
 	'summary' => "Blank template that comes with:
 -bootstrap-sass-official
 -fontawesome
@@ -11,6 +11,6 @@ Requirements:
 -compass
 -bower
 
-Simple blank Template that features a main content area and conditional right sidebar. Prepared for navbar with BS dropdown menu", 
+Simple blank template that uses the delegate template approach and comes with a top navbar, a main container and a footer section", 
 	'screenshot' => "pwbs.png"
 	);
