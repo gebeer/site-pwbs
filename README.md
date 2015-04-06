@@ -35,7 +35,8 @@ gets compiled through compass. You can easily override BS variables and exclude 
  
 ###JS
 Since I only use the BS javascript plugins I really need, I usually copy them over to my plugins.js file.
- 
+
+###Why bower? 
 I use bower to install bootstrap-sass-original and fontawesome because it gives more flexibility than requiring them through ruby gems. This way you can tweak the BS and FA partials to your liking  (of course only if you don't intend to do "bower update" further down the road)
 
 [PW Forum thread](https://processwire.com/talk/topic/9584-bootstrap-3-sass-fontawesome-blank-site-profile/) 
