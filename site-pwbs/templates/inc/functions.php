@@ -110,3 +110,39 @@ function bs3AccordionMarkup($pages, $titlefield, $contentfield) {
     $accordion .= "</div>";
     return $accordion;
 }
+
+// renders markup for a Bootstrap 3 Carousel from a ProcessWire images array
+function bsCarouselMarkup($images) {
+    $carouselId = $images->get('page').$images->get('field')->id;
+    $carouselMarkup = "<div id='carousel-$carouselId' class='carousel slide' data-ride='carousel'>
+    <ol class='carousel-indicators'>";
+    $i = 0;
+    foreach ($images as $image) :
+        $class = ($i == 0) ? " class='active'" : "";
+        $carouselMarkup .= "<li data-target='#carousel-$carouselId' data-slide-to='$i'$class ></li>";
+        $i++;
+    endforeach;
+    $carouselMarkup .= "</ol>
+    <div class='carousel-inner'>";
+    $i = 0;
+    foreach ($images as $image) :
+        $class = ($i == 0) ? "active" : "";
+        $carouselMarkup .= "<div class='item $class'>
+          <img src='$image->url' alt='$image->description' width='$image->width' height ='$image->height'>
+          <div class='carousel-caption'>
+            <p>$image->description</p>
+          </div>
+        </div>";
+        $i++;
+    endforeach;
+    $carouselMarkup .= "</div>";
+
+    $carouselMarkup .= "<a class='left carousel-control' href='#carousel-$carouselId' data-slide='prev'>
+    <span class='glyphicon glyphicon-chevron-left'></span>
+    </a>
+    <a class='right carousel-control' href='#carousel-$carouselId' data-slide='next'>
+    <span class='glyphicon glyphicon-chevron-right'></span>
+    </a>
+    </div>";
+    return $carouselMarkup;
+}
