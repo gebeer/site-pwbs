@@ -22,7 +22,16 @@ This blank site profile for ProcessWire CMS/CMF features:
 3. during install of ProcessWire choose the profile "bootstrap-sass-official fontawesome blank profile" 
 
 ##How it works
-The profile uses the delegate template approach and comes with a top navbar, a main container and a footer section.
-Rest is up to you.
+The profile is based on the blank site profile that comes with PW 2.5 and uses the delegate template approach. It comes with a top navbar, a main container and a footer section. Rest is up to you.
+ 
+###CSS
+gets compiled through compass. You can easily override BS variables and exclude BS components that you don't need. I intentionally did not add structure to the sass folder so you can structure your partials yourself as you please. There is only one folder "generic" with _mixins.scss whith a very lean and flexible breakpoint mixin that I discovered here.
+ 
+###JS
+Since I only use the BS javascript plugins I really need, I usually copy them over to my plugins.js file.
+ 
+I use bower to install bootstrap-sass-original and fontawesome because it gives more flexibility than requiring them through ruby gems. This way you can tweak the BS and FA partials to your liking  (of course only if you don't intend to do "bower update" further down the road)
+
+[PW Forum thread](https://processwire.com/talk/topic/9584-bootstrap-3-sass-fontawesome-blank-site-profile/) 
 
 Enjoy!
