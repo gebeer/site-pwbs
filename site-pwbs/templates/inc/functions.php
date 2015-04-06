@@ -75,3 +75,31 @@ function renderChildrenOf($pa, $root = null, $output = '', $level = 0) {
 // Set the ball rolling...
 //echo renderChildrenOf($pa); 
 
+function bs3Accordion($pages, $titlefield, $contentfield) {
+
+    $accordion = "<div class='panel-group' id='accordion' role='tablist' aria-multiselectable='true'>";
+
+    $i = 1;
+    foreach ($pages as $child) {
+        $in = ($i == 1) ? " in" : "";
+        $collapsed = ($i != 1) ? " class='collapsed'" : "";
+        $accordion .= "  <div class='panel panel-default'>
+        <div class='panel-heading' role='tab' id='heading$i'>
+          <h3 class='panel-title'>
+            <a$collapsed data-toggle='collapse' data-parent='#accordion' href='#collapse$i' aria-expanded='true' aria-controls='collapse$i'>
+              {$child->$titlefield}
+            </a>
+          </h3>
+        </div>
+        <div id='collapse$i' class='panel-collapse collapse$in' role='tabpanel' aria-labelledby='heading$i'>
+          <div class='panel-body'>
+          {$child->$contentfield}
+          </div>
+        </div>
+      </div>";
+      $i++;
+    }
+
+    $accordion .= "</div>";
+    return $accordion;
+}
