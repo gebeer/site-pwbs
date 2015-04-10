@@ -17,7 +17,7 @@
 
 // if any templates set $useMain to false, abort displaying this file
 // an example of when you'd want to do this would be XML sitemap or AJAX page.
-if(!$useMain) return;
+if(!$useMain || $config->ajax) return;
 /**********************************************************************************************/
 ?><!DOCTYPE html>
 <!--[if IE 8]> <html class="no-js lt-ie9" lang="en" > <![endif]-->
