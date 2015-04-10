@@ -32,7 +32,7 @@ if(!defined("PROCESSWIRE")) die();
  * @var bool
  *
  */
-$config->debug = false;
+$config->debug = true;
 
 $config->prependTemplateFile = '_init.php';
 $config->appendTemplateFile = '_main.php';
