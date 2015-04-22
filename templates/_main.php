@@ -68,7 +68,12 @@ if(!$useMain || $config->ajax) return;
 	<footer class="footer">
 		<p class="col-sm-12">&copy; <?php echo date('Y'); ?> pwbs</p>
 	</footer>
-	<script src="<?php echo $config->urls->templates; ?>bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	<script type="text/javascript">
+	if (typeof jQuery == 'undefined') {
+	    document.write(unescape("%3Cscript src='<?php echo $config->urls->templates; ?>bower_components/jquery/dist/jquery.min.js' type='text/javascript'%3E%3C/script%3E"));
+	}
+	</script>
 	<?php foreach($config->scripts as $url) echo "<script src='$url'></script>"; ?>
 	<script src="<?php echo $config->urls->templates; ?>js/plugins.js"></script>
 	<script src="<?php echo $config->urls->templates; ?>js/scripts.js"></script>
